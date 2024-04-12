@@ -1,0 +1,12 @@
+{
+    "tableDB":[
+        { "plant": ["rose","test"], "table": "TableOne" },
+        { "plant": ["tulip"], "table": "TableTwo" },
+        { "plant": ["kolton"], "table": "TableThree" },
+        { "plant": ["daisy"], "table": "TableFour" },
+        { "plant": ["sunflower"], "table": "TableFive" },
+        { "plant": ["bush"], "table": "TableSix" },
+        { "plant": ["tomato"], "table": "TableSeven" },
+        { "plant": ["cucumber"], "table": "TableEight" }
+    ]
+}
