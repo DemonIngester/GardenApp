@@ -7,7 +7,7 @@ const Search = () => {
     //Static DB, plant holds plant names table holds classname of table
     //!!! ALL PLANT NAMES NEED TO BE LOWERCASE AND WITHOUT SPACES
     const tableArray = [
-        { plant: ["rose","test"], table: "TableOne" },
+        { plant: ["rose"], table: "TableOne" },
         { plant: ["tulip"], table: "TableTwo" },
         { plant: ["kolton"], table: "TableThree" },
         { plant: ["daisy"], table: "TableFour" },
