@@ -1,5 +1,6 @@
 import Table from "./Table";
 import Search from "./Search";
+import Filtered from "./Filtered";
 import "./Layout.css";
 
 //The Table component has two props, name and displayName.
@@ -20,6 +21,7 @@ const Layout = () => {
                 <Table name="TableEight" displayName={"Table Eight"}/>
             </div>
                 <Search/>
+                <Filtered/>
         </>
     )
 }

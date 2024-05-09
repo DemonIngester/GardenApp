@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <Layout></Layout>
-      <footer> <p onClick={() => easterEgg()}>Made by Kolton</p> </footer>
+      <footer> <p onClick={() => easterEgg()}>Made by Kolton - V.1.01</p> </footer>
     </>
   );
 }
