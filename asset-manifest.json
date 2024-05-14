@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GardenApp/static/css/main.54ab51eb.css",
-    "main.js": "/GardenApp/static/js/main.b52f276b.js",
+    "main.js": "/GardenApp/static/js/main.38601e31.js",
     "index.html": "/GardenApp/index.html",
     "main.54ab51eb.css.map": "/GardenApp/static/css/main.54ab51eb.css.map",
-    "main.b52f276b.js.map": "/GardenApp/static/js/main.b52f276b.js.map"
+    "main.38601e31.js.map": "/GardenApp/static/js/main.38601e31.js.map"
   },
   "entrypoints": [
     "static/css/main.54ab51eb.css",
-    "static/js/main.b52f276b.js"
+    "static/js/main.38601e31.js"
   ]
 }
